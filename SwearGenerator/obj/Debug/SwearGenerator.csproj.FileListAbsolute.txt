@@ -1,0 +1,39 @@
+G:\Drive afonso\Programs\C#\SwearGenerator\SwearGenerator\bin\Debug\SwearGenerator.exe.config
+G:\Drive afonso\Programs\C#\SwearGenerator\SwearGenerator\bin\Debug\SwearGenerator.exe
+G:\Drive afonso\Programs\C#\SwearGenerator\SwearGenerator\bin\Debug\SwearGenerator.pdb
+G:\Drive afonso\Programs\C#\SwearGenerator\SwearGenerator\obj\Debug\SwearGenerator.Form1.resources
+G:\Drive afonso\Programs\C#\SwearGenerator\SwearGenerator\obj\Debug\SwearGenerator.Properties.Resources.resources
+G:\Drive afonso\Programs\C#\SwearGenerator\SwearGenerator\obj\Debug\SwearGenerator.csproj.GenerateResource.Cache
+G:\Drive afonso\Programs\C#\SwearGenerator\SwearGenerator\obj\Debug\SwearGenerator.exe
+G:\Drive afonso\Programs\C#\SwearGenerator\SwearGenerator\obj\Debug\SwearGenerator.pdb
+G:\Drive afonso\Programs\C#\SwearGenerator\SwearGenerator\bin\Debug\HtmlAgilityPack.dll
+G:\Drive afonso\Programs\C#\SwearGenerator\SwearGenerator\bin\Debug\HtmlAgilityPack.pdb
+G:\Drive afonso\Programs\C#\SwearGenerator\SwearGenerator\bin\Debug\HtmlAgilityPack.xml
+G:\Drive afonso\Programs\C#\SwearGenerator\SwearGenerator\obj\Debug\SwearGenerator.csprojResolveAssemblyReference.cache
+G:\Drive afonso\Programs\C#\SwearGenerator\SwearGenerator\obj\Debug\SwearGenerator.WebBrowser.resources
+C:\Users\AfonsoM\Google Drive\Programs\C#\SwearGenerator\SwearGenerator\bin\Debug\SwearGenerator.exe.config
+C:\Users\AfonsoM\Google Drive\Programs\C#\SwearGenerator\SwearGenerator\obj\Debug\SwearGenerator.exe
+C:\Users\AfonsoM\Google Drive\Programs\C#\SwearGenerator\SwearGenerator\obj\Debug\SwearGenerator.pdb
+C:\Users\AfonsoM\Google Drive\Programs\C#\SwearGenerator\SwearGenerator\obj\Debug\SwearGenerator.csprojResolveAssemblyReference.cache
+C:\Users\AfonsoM\Google Drive\Programs\C#\SwearGenerator\SwearGenerator\obj\Debug\SwearGenerator.Form1.resources
+C:\Users\AfonsoM\Google Drive\Programs\C#\SwearGenerator\SwearGenerator\obj\Debug\SwearGenerator.Properties.Resources.resources
+C:\Users\AfonsoM\Google Drive\Programs\C#\SwearGenerator\SwearGenerator\obj\Debug\SwearGenerator.WebBrowser.resources
+C:\Users\AfonsoM\Google Drive\Programs\C#\SwearGenerator\SwearGenerator\obj\Debug\SwearGenerator.csproj.GenerateResource.Cache
+C:\Users\AfonsoM\Google Drive\Programs\C#\SwearGenerator\SwearGenerator\bin\Debug\SwearGenerator.exe
+C:\Users\AfonsoM\Google Drive\Programs\C#\SwearGenerator\SwearGenerator\bin\Debug\SwearGenerator.pdb
+C:\Users\AfonsoM\Google Drive\Programs\C#\SwearGenerator\SwearGenerator\bin\Debug\HtmlAgilityPack.dll
+C:\Users\AfonsoM\Google Drive\Programs\C#\SwearGenerator\SwearGenerator\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\AfonsoM\Google Drive\Programs\C#\SwearGenerator\SwearGenerator\bin\Debug\HtmlAgilityPack.xml
+F:\Drive\Programs\C#\SwearGenerator\SwearGenerator\bin\Debug\SwearGenerator.exe.config
+F:\Drive\Programs\C#\SwearGenerator\SwearGenerator\bin\Debug\SwearGenerator.exe
+F:\Drive\Programs\C#\SwearGenerator\SwearGenerator\bin\Debug\SwearGenerator.pdb
+F:\Drive\Programs\C#\SwearGenerator\SwearGenerator\bin\Debug\HtmlAgilityPack.dll
+F:\Drive\Programs\C#\SwearGenerator\SwearGenerator\bin\Debug\HtmlAgilityPack.pdb
+F:\Drive\Programs\C#\SwearGenerator\SwearGenerator\bin\Debug\HtmlAgilityPack.xml
+F:\Drive\Programs\C#\SwearGenerator\SwearGenerator\obj\Debug\SwearGenerator.csprojResolveAssemblyReference.cache
+F:\Drive\Programs\C#\SwearGenerator\SwearGenerator\obj\Debug\SwearGenerator.Form1.resources
+F:\Drive\Programs\C#\SwearGenerator\SwearGenerator\obj\Debug\SwearGenerator.Properties.Resources.resources
+F:\Drive\Programs\C#\SwearGenerator\SwearGenerator\obj\Debug\SwearGenerator.WebBrowser.resources
+F:\Drive\Programs\C#\SwearGenerator\SwearGenerator\obj\Debug\SwearGenerator.csproj.GenerateResource.Cache
+F:\Drive\Programs\C#\SwearGenerator\SwearGenerator\obj\Debug\SwearGenerator.exe
+F:\Drive\Programs\C#\SwearGenerator\SwearGenerator\obj\Debug\SwearGenerator.pdb

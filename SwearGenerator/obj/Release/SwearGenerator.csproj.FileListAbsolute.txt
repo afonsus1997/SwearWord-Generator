@@ -1,0 +1,12 @@
+F:\Drive\Programs\C#\SwearGenerator\SwearGenerator\bin\Release\SwearGenerator.exe.config
+F:\Drive\Programs\C#\SwearGenerator\SwearGenerator\bin\Release\SwearGenerator.exe
+F:\Drive\Programs\C#\SwearGenerator\SwearGenerator\bin\Release\SwearGenerator.pdb
+F:\Drive\Programs\C#\SwearGenerator\SwearGenerator\bin\Release\HtmlAgilityPack.dll
+F:\Drive\Programs\C#\SwearGenerator\SwearGenerator\bin\Release\HtmlAgilityPack.pdb
+F:\Drive\Programs\C#\SwearGenerator\SwearGenerator\bin\Release\HtmlAgilityPack.xml
+F:\Drive\Programs\C#\SwearGenerator\SwearGenerator\obj\Release\SwearGenerator.Form1.resources
+F:\Drive\Programs\C#\SwearGenerator\SwearGenerator\obj\Release\SwearGenerator.Properties.Resources.resources
+F:\Drive\Programs\C#\SwearGenerator\SwearGenerator\obj\Release\SwearGenerator.WebBrowser.resources
+F:\Drive\Programs\C#\SwearGenerator\SwearGenerator\obj\Release\SwearGenerator.csproj.GenerateResource.Cache
+F:\Drive\Programs\C#\SwearGenerator\SwearGenerator\obj\Release\SwearGenerator.exe
+F:\Drive\Programs\C#\SwearGenerator\SwearGenerator\obj\Release\SwearGenerator.pdb
