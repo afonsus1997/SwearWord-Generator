@@ -1,7 +1,7 @@
-SwearWord Generator
+# SwearWord Generator
 
 
-# I Dunno
+## I Dunno
 
-## Executable on root directory
+### Executable on root directory
 
